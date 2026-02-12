@@ -1,0 +1,14 @@
+{
+  "name": "tg-detective-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.0.0",
+    "telegraf": "^4.16.3"
+  }
+}
